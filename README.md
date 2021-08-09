@@ -1,10 +1,11 @@
 ## Oiii! Eu sou a Bruna Luisa 🙋‍♀
-:Estudante em tempo integral Fullstack!
-Sou completamente apaixonada e fascinada por tecnologia, venho de uma transição de carreira, na qual considero uma das
+Estudante em tempo integral Fullstack!
+Sou completamente fascinada e apaixonada por tecnologia, venho de uma transição de carreira, na qual considero uma das
 mais importantes e significativas decisões que tomei na vida! Já estou desenvolvendo com tecnologias como: HTML5, CSS3,
-Javascript, React, React, Node.JS, Express e versionamento com Git e GitHub e também estudando outras tecnologias, 
-com intuito no aprimoramento e crescimento na carreira como Fullstack.:
+Javascript, React, React, Node.JS, Express e versionamento com Git e GitHub e também estudando outras tecnologias, com 
+intuito no aprimoramento e crescimento na carreira como Fullstack.
 
+##
 
 <div>
   <a href="https://github.com/brunnasilveira">
@@ -22,10 +23,12 @@ com intuito no aprimoramento e crescimento na carreira como Fullstack.:
 </div>
   
   ##
- 
+  <h3>Contatos:</h3>
 <div> 
   <A href="mailto:brunnaluiisa.bl@gmail.com"> <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white Alvo="_blank"> </a>
   <A href="https://www.linkedin.com/in/brunaluisasilveira" Alvo="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?Style=for-the badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
+  
+  ##
   
   ![Snake animation](https://github.com/brunnasilveira/brunnasilveira/blob/output/github-contribution-grid-snake.svg)
   
