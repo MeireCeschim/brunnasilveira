@@ -27,6 +27,5 @@ com intuito no aprimoramento e crescimento na carreira como Fullstack.:
   <A href="mailto:brunnaluiisa.bl@gmail.com"> <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white Alvo="_blank"> </a>
   <A href="https://www.linkedin.com/in/brunaluisasilveira" Alvo="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?Style=for-the badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
   
-   ! [Animação de cobra] (https://github.com/brunnasilveira/brunaluisasilveira/blob/output/github-contribution-grid-snake.svg)
-
+! [Animação de cobra] (https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
 </div>
