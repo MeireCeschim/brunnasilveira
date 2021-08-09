@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Bruna Luisa 🙋‍♀
+## Prazer, sou a Bruna Luisa! 🙋‍♀
 Estudante em tempo integral Fullstack!
 Sou completamente fascinada e apaixonada por tecnologia, venho de uma transição de carreira, na qual considero uma das
 mais importantes e significativas decisões que tomei na vida! Já estou desenvolvendo com tecnologias como: HTML5, CSS3,
