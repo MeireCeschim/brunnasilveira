@@ -8,6 +8,7 @@ com intuito no aprimoramento e crescimento na carreira como Fullstack.:
 
 <div>
   <a href="https://github.com/brunnasilveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnasilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnasilveira&layout=compact&langs_count=16&theme=monokai"/>
 </div>
   
