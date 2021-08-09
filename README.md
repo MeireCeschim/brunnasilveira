@@ -26,7 +26,7 @@ intuito no aprimoramento e crescimento na carreira como Fullstack.
 </div>
   
   ##
-  <h3>Contato:</h3>
+  <h3>Contatos:</h3>
 <div>
     <a href="https://www.linkedin.com/in/brunaluisasilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/838468562577391677" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  <a href = "mailto:brunnaluiisa.bl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
