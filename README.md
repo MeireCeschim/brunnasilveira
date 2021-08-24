@@ -1,9 +1,5 @@
-## Oiii! sou a Bruna Luisa! 🙋‍♀
-Estudante em tempo integral Fullstack!
-Sou completamente fascinada e apaixonada por tecnologia, venho de uma transição de carreira, na qual considero uma das
-mais importantes e significativas decisões que tomei na vida! Já estou desenvolvendo com tecnologias como: HTML5, CSS3,
-Javascript, React, React, Node.JS, Express e versionamento com Git e GitHub e também estudando outras tecnologias, com 
-intuito no aprimoramento e crescimento na carreira como Fullstack.
+## Hi! I'm Bruna Luisa! 🙋‍♀
+Fullstack full-time student! I'm completely fascinated and passionate about technology, I come from a career transition, which I consider one of the most important and significant decisions I've made in my life! I'm already developing with technologies such as: HTML5, CSS3, Javascript, React, React, Node.JS, Express and versioning with Git and GitHub and also studying other technologies, aiming at improving and growing my career as a Fullstack.
 
 ##
 
@@ -26,7 +22,7 @@ intuito no aprimoramento e crescimento na carreira como Fullstack.
 </div>
   
   ##
-  <h3>Contatos:</h3>
+  <h3>Contacts:</h3>
 <div>
     <a href="https://www.linkedin.com/in/brunaluisasilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/838468562577391677" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  <a href = "mailto:brunnaluiisa.bl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
